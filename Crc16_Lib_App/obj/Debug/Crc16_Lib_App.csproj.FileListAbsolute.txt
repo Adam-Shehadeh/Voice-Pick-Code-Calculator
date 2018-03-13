@@ -1,0 +1,32 @@
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.exe.config
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.exe
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.pdb
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\bin\Debug\SunCRC.DLL
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.Form1.resources
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.Properties.Resources.resources
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csproj.GenerateResource.cache
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csproj.CoreCompileInputs.cache
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csproj.CopyComplete
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.exe
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.pdb
+E:\VMShare Folder\Projects\D&W Fine Pack\Molding Cooling System\Chipotle Printing\New Crc Library App\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csprojResolveAssemblyReference.cache
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.exe.config
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.exe
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.pdb
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csprojResolveAssemblyReference.cache
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.Form1.resources
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.Properties.Resources.resources
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csproj.GenerateResource.Cache
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csproj.CoreCompileInputs.cache
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.exe
+C:\Users\AShehadeh\Desktop\Crc16_Lib_App\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.pdb
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.exe.config
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.exe
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\bin\Debug\Crc16_Lib_App.pdb
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csprojResolveAssemblyReference.cache
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.Form1.resources
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.Properties.Resources.resources
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csproj.GenerateResource.Cache
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.csproj.CoreCompileInputs.cache
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.exe
+C:\Users\AShehadeh\Desktop\Computer Science\DWFP Projects\VoicePick Code Calculator\Voice-Pick-Code-Calculator\Crc16_Lib_App\obj\Debug\Crc16_Lib_App.pdb
